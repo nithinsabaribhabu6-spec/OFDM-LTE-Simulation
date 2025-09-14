@@ -22,4 +22,4 @@
 ---
 
 ## Author
-**Your Name** – Electrical Engineering Student | [GitHub Profile](https://github.com/YourUsername)
+**Nithin Sabari Bhabu D** – Electrical Engineering Student | [GitHub Profile](https://github.com/YourUsername)
