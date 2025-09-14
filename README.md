@@ -1,3 +1,24 @@
+# OFDM-Based LTE System Simulation
+
+**Technologies:** MATLAB, Python, QPSK Modulation, LTE MAC Scheduling
+
+---
+
+## Project Overview
+This project simulates an **OFDM-based wireless communication system** similar to LTE networks. It evaluates system performance over **AWGN and Rayleigh fading channels** and includes optional **MAC-layer scheduling** to study throughput and fairness trade-offs.
+
+---
+
+## Features
+- **OFDM Simulation:** MATLAB implementation with QPSK modulation, IFFT/FFT, and cyclic prefix.  
+- **Channel Modeling:** Performance analysis under AWGN and Rayleigh fading channels.  
+- **BER Analysis:** Bit Error Rate vs. SNR plots for performance evaluation.  
+- **MAC Scheduling (Optional):** Python scripts for Round Robin and Proportional Fair algorithms.  
+- **PHY-MAC Integration:** Provides insights into network optimization and resource allocation.
+
+---
+
+## Project Structure
 
 ---
 
